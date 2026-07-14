@@ -1,6 +1,6 @@
 # SAM 3 — Open-Vocabulary Video Tracking
 
-Track a single moving target in a short video using only a **text prompt**, with Meta's
+Track a single moving target in a short video using only a text prompt, with Meta's
 **Segment Anything Model 3 (SAM 3)**. The notebook segments the target, tracks it across every
 frame, computes its centroid per frame, draws the motion path, and plots the trajectory.
 
