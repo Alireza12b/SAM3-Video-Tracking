@@ -7,7 +7,7 @@ frame, computes its centroid per frame, draws the motion path, and plots the tra
 
 ## Requirements
 - Google Colab with a **GPU** runtime
-- The `sam3.pt` checkpoint. yo can download it from:
+- The `sam3.pt` checkpoint. you can download it from:
     https://huggingface.co/bodhicitta/sam3/blob/main/sam3.pt
   
 ## How to run
